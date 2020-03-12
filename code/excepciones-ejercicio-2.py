@@ -14,6 +14,7 @@ def divide():
 
 	#except ZeroDivisionError:
 	 #	print("no se puede dividir por cero")
+	 #modificacion de una linea nueva marzo 2020
 
 	
 
